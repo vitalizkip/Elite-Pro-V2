@@ -8,8 +8,8 @@ global.socialm = "GitHub: Elite-MD" //ur github or insta name
 global.location = "Port Harcourt, Nigeria" //ur location
 
 //new
-global.botname = 'ELITE-PRO-V2' //ur bot name
-global.ownernumber = '2348109263390' //ur owner number
+global.botname = 'Kiddo' //ur bot name
+global.ownernumber = '254751767270' //ur owner number
 global.ownername = 'ELITE-PRO-V2' //ur owner name
 global.websitex = "https://youtu.be/@elite-pro-empire"
 global.wagc = "https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g"
